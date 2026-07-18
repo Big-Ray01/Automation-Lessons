@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/test-automation/src/main/java/org/example/Main.java;C:/Users/Administrator/Pictures/Automation-Lessons/test-automation/src/test/base/Initilise.java;C:/Users/Administrator/Pictures/Automation-Lessons/test-automation/src/test/pageObject/signUpPage.java;C:/Users/Administrator/Pictures/Automation-Lessons/test-automation/src/test/runner/Runner.java;C:/Users/Administrator/Pictures/Automation-Lessons/test-automation/src/test/stepDef/stepDef.java" />
+  </component>
+</project>
